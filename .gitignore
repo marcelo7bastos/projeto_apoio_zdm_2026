@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# SSH keys / secrets
+*.pem
+*.key
+id_*
+*.pub
